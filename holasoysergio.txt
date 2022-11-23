@@ -1,6 +1,6 @@
 Hola, Git:
 
-¿Qué tal todo?
+Pues ya estaría :-)
 
 Saludos.
 
